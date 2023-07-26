@@ -8,7 +8,7 @@
     "build": "npm install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "John Kraczek",
+  "author": "Nitin Chintamani",
   "license": "ISC",
   "dependencies": {
     "n8n": "*"
